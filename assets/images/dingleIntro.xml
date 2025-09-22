@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="dingleIntro.png" width="1841" height="150">
+	<SubTexture name="dingle0000" x="1" y="1" width="149" height="146" frameX="-0" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0001" x="1" y="1" width="149" height="146" frameX="-0" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0002" x="153" y="1" width="138" height="146" frameX="-0" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0003" x="153" y="1" width="138" height="146" frameX="-0" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0004" x="294" y="1" width="122" height="146" frameX="-13" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0005" x="294" y="1" width="122" height="146" frameX="-13" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0006" x="419" y="1" width="116" height="146" frameX="-16" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0007" x="419" y="1" width="116" height="146" frameX="-16" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0008" x="538" y="1" width="116" height="146" frameX="-16" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0009" x="538" y="1" width="116" height="146" frameX="-16" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0010" x="794" y="1" width="121" height="147" frameX="-13" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0011" x="794" y="1" width="121" height="147" frameX="-13" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0012" x="918" y="1" width="137" height="147" frameX="-0" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0013" x="918" y="1" width="137" height="147" frameX="-0" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0014" x="1058" y="1" width="148" height="147" frameX="-0" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0015" x="1058" y="1" width="148" height="147" frameX="-0" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0016" x="1209" y="1" width="141" height="147" frameX="-8" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0017" x="1209" y="1" width="141" height="147" frameX="-8" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0018" x="1353" y="1" width="126" height="147" frameX="-12" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0019" x="1353" y="1" width="126" height="147" frameX="-12" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0020" x="1482" y="1" width="117" height="147" frameX="-15" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0021" x="1482" y="1" width="117" height="147" frameX="-15" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0022" x="1602" y="1" width="115" height="148" frameX="-16" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0023" x="1602" y="1" width="115" height="148" frameX="-16" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0024" x="1720" y="1" width="120" height="148" frameX="-14" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0025" x="1720" y="1" width="120" height="148" frameX="-14" frameY="-0" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0026" x="657" y="1" width="134" height="146" frameX="-11" frameY="-1" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="dingle0027" x="657" y="1" width="134" height="146" frameX="-11" frameY="-1" frameWidth="150" frameHeight="150"/>
+</TextureAtlas>
