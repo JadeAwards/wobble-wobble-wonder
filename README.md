@@ -12,4 +12,4 @@ Tanrake - Game Thumbnail
 
 Golden Apple Team - "The Big Dingle" Assets
 
-<img width="640" height="480" alt="6bMMZF" src="https://github.com/user-attachments/assets/506e95bb-3354-4820-a063-1a4ce17f9540" />
+<img width="640" height="480" alt="6bMMZF" src="https://github.com/user-attachments/assets/506e95bb-3354-4820-a063-1a4ce17f9540" align=center />
